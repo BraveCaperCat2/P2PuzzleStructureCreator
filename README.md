@@ -1,5 +1,6 @@
 # Portal 2 Puzzle Structure Designer
 *Makes portal 2 puzzle layouts and designs according to user settings. Doesn't help you with making your puzzles look good.*
+
 Similar to and inspired by [Chamber Designer Name Here]'s [Project Name Here], but more complex. Uses the same basic structure, such as islands and connections.
 ## Features
 A list of the features, with a checkbox to show if it's been implemented yet.
